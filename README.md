@@ -33,6 +33,7 @@ To this extent, we developed 4 Notebooks:
 * `2. Dataset Creation.ipynb`
 * `3. Model Creation & Prediction.ipynb`
 * `4. Feature Engineering.ipynb`
+
 We trained the model using GPU offered by Google Colab.
 
 ## Team members
