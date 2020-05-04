@@ -1,6 +1,6 @@
 # Scalable Machine Learning and Deep Learning
 <p align="center">
-  <img width="100%" src="https://scholarship-positions.com/wp-content/uploads/2018/12/KTH-India-Master-Scholarship-for-Indian-Students-in-Sweden-2020.jpg" alt="header" />
+  <img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Royal_Institute_of_Technology_1_2012.jpg/2880px-Royal_Institute_of_Technology_1_2012.jpg" alt="header" />
 </p>
 <p align="center">
     <img src="https://www.engicoin.eu/templates/yootheme/cache/10.KTH-45bf9614.png" width="180" alt="KTH"/>
